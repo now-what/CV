@@ -1,77 +1,47 @@
-## Your Name
+## Francesco Colombo
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am studying to become a software engineer, and I have a background in journalism, communications, online marketing, SEO and most recently banking and financial crime. 
+At Monzo Bank, I work as a Quality Assessor for the bank's fincrime controls (both retail and business banking).
+The bank's "only branches are on GitHub", so here I am trying to make sense of them all. 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Nadarsrl.it**              | A SME website     | WordPress         |
+| **Rozimages.com**            | Partner's website | WordPress         |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Monzo Bank** (September 2016 to date)  
+_Financial Crime Operations Quality Assessor_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Freelance** (2013 to date)  
+_SEO and online presence for local businesses_
 
-- Any experience relevent to software development
+- Set up WordPress websites for small business, and help with their online presence.
 
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+**Careerjet** (2010 to 2012)
+_Country Manager Italy, UK, Ireland_
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (December 2021 to date)
 
-#### Your University / College (start_date to end_date)
+- Learning to code
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Università degli Studi di Milano (2004 to 2007)
 
-#### Any other qualifications
+- BA Communications
 
-That in some arguable way make you a better software developer or well-rounded person
+#### ICA International Advanced Certificate in Anti Money Laundering (2021)
+
+#### LIBF Certificate in Business Banking and Conduct (CertBB&C) (2021)
+
+#### LIBF Certificate in Retail Banking Conduct of Business (CertRBCB) (2018)
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Travelling, gardening, looking after animals, reading, going to concerts, Formula One.
