@@ -8,15 +8,16 @@ The bank's "only branches are on GitHub", so here I am trying to make sense of t
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Nadarsrl.it**              | A SME website     | WordPress         |
-| **Rozimages.com**            | Partner's website | WordPress         |
+| **[nadarsrl.it](https://wwww.nadarsrl.it/)**              | An SME website     | WordPress         |
+| **[rozimages.com](https://www.rozimages.com)**            | Partner's website | WordPress         |
 
 ## Work Experience
 
 **Monzo Bank** (September 2016 to date)  
 _Financial Crime Operations Quality Assessor_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Assessing the validity of actions performed and decisions made across a variety of Financial Crime controls, such as transaction monitoring, sanctions screening and customer due diligence reviews.
+- Identifying operational errors and determining their root cause.
 
 **Freelance** (2013 to date)  
 _SEO and online presence for local businesses_
